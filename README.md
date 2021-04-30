@@ -1,11 +1,11 @@
 # CSE110 SP21 Lab 5
 
 ## Author(s):
-- YOUR NAME
+- Joshua Wang
 
 ## Part 1:
 
-LINK TO YOUR PUBLISHED SITE
+Link to Github Page: [https://joshu-wa.github.io/Lab5/](https://joshu-wa.github.io/Lab5/)
 
 ## Part 2:
 
