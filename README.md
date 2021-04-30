@@ -9,4 +9,4 @@ Link to Github Page: [https://joshu-wa.github.io/Lab5/](https://joshu-wa.github.
 
 ## Part 2:
 
-LINK TO YOUR PART 2 REPOSITORY
+Link to repository: [https://github.com/joshu-wa/github-actions-for-ci](https://github.com/joshu-wa/github-actions-for-ci)
